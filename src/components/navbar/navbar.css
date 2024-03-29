@@ -1,0 +1,15 @@
+.hospitalName {
+  font-size: 26px;
+  color: black;
+  padding-left: 20px;
+}
+.navi {
+  /* height: 20px; */
+  /* border: solid; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: solid black 2px;
+  height: 50px;
+  background-color: #f0f3ff;
+}
